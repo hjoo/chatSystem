@@ -1,6 +1,3 @@
-Computer Networks CSEE4119, Programming Assignment 1
-Hyonjee Joo
-===============================================================================
 This is a chat system that allows for live chatting as well as saved and
 forwarded messages for offline users.
 
